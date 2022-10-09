@@ -1,0 +1,2 @@
+-- AlterTable
+ALTER TABLE "Item" ADD COLUMN     "numStars" INTEGER NOT NULL DEFAULT 5;
